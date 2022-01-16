@@ -5,7 +5,7 @@
 Salam Messenger delivers messages faster than any other application. Powerful. Salam Messenger has no limits on the size of your media and chats !
 
 
-<img width="800" alt="React Messenger Screenshot" src="https://media.discordapp.net/attachments/762383336994766938/907380464938000444/Screenshot_145.png?width=1358&height=779"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple and optimized React Messenger [( See Demo )](https://ammessenger.netlify.app/) . It includes: 
 
