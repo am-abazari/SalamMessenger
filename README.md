@@ -26,7 +26,7 @@ Simple and optimized React Messenger [( See Demo )](https://ammessenger.netlify.
 
 Make sure you have the latest Stable or LTS version of Node.js installed.
 
-1. `git clone https://github.com/AmirhosseinAbazari/SalamMessenger`
+1. `git clone https://github.com/am-abazari/SalamMessenger`
 2. Run `npm install` or `yarn install`
 3. Start the dev server using `npm start`
 4. Open [http://localhost:3000/](http://localhost:3000/)
@@ -46,4 +46,4 @@ The coverage report consists of an HTML reporter, which can be viewed in the bro
 
 ## About Author
 
-<strong>Amirhossein Abazari</strong> Front-End Web Developer
+<strong>Amirhossein Abazari</strong> Full-Stack Web Developer
